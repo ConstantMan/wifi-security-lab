@@ -1,4 +1,4 @@
-Threat Model (βασισμένο στο εργαλείο The Security Cards)
+## Threat Model (βασισμένο στο εργαλείο The Security Cards)
 
 ## Αξίες/Πόροι:
 
@@ -32,7 +32,7 @@ Threat Model (βασισμένο στο εργαλείο The Security Cards)
 
 Απλή HTML φόρμα χωρίς CAPTCHA ή JavaScript validation
 
-Πιθανές Επιπτώσεις:
+## Πιθανές Επιπτώσεις:
 
 Πλήρης έλεγχος του router και του δικτύου με απομακρυσμένη πρόσβαση
 
@@ -48,7 +48,7 @@ DNS hijacking ή Man-in-the-Middle επιθέσεις
 
 Επαναχρησιμοποίηση credentials για πρόσβαση σε άλλες συσκευές
 
-Μέτρα Αντιμετώπισης:
+## Μέτρα Αντιμετώπισης:
 
 Κλείδωμα USB θύρας από BIOS/UEFI
 
